@@ -8,6 +8,7 @@ public class Curso {
     public Curso() {
     }
 
+
     public String getTitulo() {
         return titulo;
     }
