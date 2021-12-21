@@ -1,6 +1,6 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
-Conteúdo editado e copiado do original, que foi disponibilizado com ♥ por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
+Conteúdo editado e copiado do original, que foi disponibilizado por [cami-la](https://www.linkedin.com/in/cami-la/ "cami-la").
 <p> Durante o desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Tivemos a oportunidade de aprender mais com a <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 mais um conteúdo que foi disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java. Promovendo ainda mais nosso desenvolvimento pessoal como profissional.<br>
     💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
